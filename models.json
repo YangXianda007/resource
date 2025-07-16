@@ -1,0 +1,57 @@
+[
+  {
+    "id": "SmolVLM-256M-Instruct-Q8_0",
+    "name": "SmolVLM-256M-Instruct-Q8_0",
+    "mmprojOrTokenName": "mmproj-SmolVLM-256M-Instruct-Q8_0",
+    "sizeGb": 0.16,
+    "params": "256 M",
+    "features": ["Chat", "VLM"],
+    "type": "multimodal",
+    "modelUrl": "https://huggingface.co/ggml-org/SmolVLM-256M-Instruct-GGUF/resolve/main/SmolVLM-256M-Instruct-Q8_0.gguf?download=true",
+    "mmprojOrTokenUrl": "https://huggingface.co/ggml-org/SmolVLM-256M-Instruct-GGUF/resolve/main/mmproj-SmolVLM-256M-Instruct-Q8_0.gguf?download=true"
+  },
+  {
+    "id": "SmolVLM-256M-Instruct-f16",
+    "name": "SmolVLM-256M-Instruct-f16",
+    "mmprojOrTokenName": "mmproj-SmolVLM-256M-Instruct-f16",
+    "sizeGb": 0.2,
+    "params": "256 M",
+    "features": ["Chat", "VLM"],
+    "type": "multimodal",
+    "modelUrl": "https://huggingface.co/ggml-org/SmolVLM-256M-Instruct-GGUF/resolve/main/SmolVLM-256M-Instruct-f16.gguf?download=true",
+    "mmprojOrTokenUrl": "https://huggingface.co/ggml-org/SmolVLM-256M-Instruct-GGUF/resolve/main/mmproj-SmolVLM-256M-Instruct-f16.gguf?download=true"
+  },
+  {
+    "id": "Qwen3-0.6B-Q8_0",
+    "name": "Qwen3-0.6B-Q8_0",
+    "mmprojOrTokenName": "",
+    "sizeGb": 0.6,
+    "params": "0.6 B",
+    "features": ["Chat"],
+    "type": "chat",
+    "modelUrl": "https://huggingface.co/nexaml/nexaml-models/resolve/main/Qwen3-0.6B-Q8_0.gguf?download=true",
+    "mmprojOrTokenUrl":""
+  },
+  {
+    "id": "Qwen2.5-1.5B",
+    "name": "Qwen2.5-1.5B-Instruct",
+    "mmprojOrTokenName": "",
+    "sizeGb": 1.89,
+    "params": "1.54 B",
+    "features": ["Chat", "Summarization"],
+    "type": "chat",
+    "modelUrl": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q8_0.gguf?download=true",
+    "mmprojOrTokenUrl": ""
+  },
+  {
+    "id": "gemma",
+    "name": "gemma-3-4b-it-Q8_0",
+    "mmprojOrTokenName": "mmproj-model-f16",
+    "sizeGb": 4.13,
+    "params": "3.88 B",
+    "features": ["Chat", "Summarization", "Reasoning"],
+    "type": "multimodal",
+    "modelUrl": "https://huggingface.co/nexaml/nexaml-models/resolve/main/gemma-3-4b-it-Q8_0.gguf?download=true",
+    "mmprojOrTokenUrl": "https://huggingface.co/nexaml/nexaml-models/resolve/main/mmproj-model-f16.gguf?download=true"
+  }
+]
