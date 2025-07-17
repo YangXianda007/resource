@@ -29,7 +29,7 @@
     "params": "0.6 B",
     "features": ["Chat"],
     "type": "chat",
-    "modelUrl": "https://huggingface.co/nexaml/nexaml-models/resolve/main/Qwen3-0.6B-Q8_0.gguf?download=true",
+    "modelUrl": "https://huggingface.co/nexaml/Qwen3-0.6B/resolve/main/Qwen3-0.6B-Q8_0.gguf?download=true",
     "mmprojOrTokenUrl":""
   },
   {
