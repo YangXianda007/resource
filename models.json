@@ -51,7 +51,7 @@
     "params": "3.88 B",
     "features": ["Chat", "Summarization", "Reasoning"],
     "type": "multimodal",
-    "modelUrl": "https://huggingface.co/nexaml/nexaml-models/resolve/main/gemma-3-4b-it-Q8_0.gguf?download=true",
-    "mmprojOrTokenUrl": "https://huggingface.co/nexaml/nexaml-models/resolve/main/mmproj-model-f16.gguf?download=true"
+    "modelUrl": "https://huggingface.co/nexaml/gemma-3-4b-it-GGUF/resolve/main/gemma-3-4b-it-Q4_K_M.gguf?download=true",
+    "mmprojOrTokenUrl": "https://huggingface.co/nexaml/gemma-3-4b-it-GGUF/resolve/main/mmproj-model-f16.gguf?download=true"
   }
 ]
