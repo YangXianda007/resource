@@ -29,7 +29,7 @@
     "id": "Qwen3-0.6B-Q8_0",
     "name": "Qwen3-0.6B-Q8_0",
     "mmprojOrTokenName": "",
-    "sizeGb": 0.6,
+    "sizeGb": 0.749,
     "modelSize": 0.6,
     "mmprojSize": 0.0,
     "params": "0.6 B",
