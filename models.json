@@ -1,18 +1,5 @@
 [
   {
-    "id": "SmolVLM-500M-Instruct-Q8_0",
-    "name": "SmolVLM-500M-Instruct-Q8_0",
-    "mmprojOrTokenName": "mmproj-SmolVLM-500M-Instruct-Q8_0",
-    "sizeGb": 0.53,
-    "modelSize": 0.43,
-    "mmprojSize": 0.1,
-    "params": "500 M",
-    "features": ["Chat", "VLM"],
-    "type": "multimodal",
-    "modelUrl": "https://huggingface.co/ggml-org/SmolVLM-500M-Instruct-GGUF/resolve/main/SmolVLM-500M-Instruct-Q8_0.gguf?download=true",
-    "mmprojOrTokenUrl": "https://huggingface.co/ggml-org/SmolVLM-500M-Instruct-GGUF/resolve/main/mmproj-SmolVLM-500M-Instruct-Q8_0.gguf?download=true"
-  },
-  {
     "id": "SmolVLM-256M-Instruct-Q8_0",
     "name": "SmolVLM-256M-Instruct-Q8_0",
     "mmprojOrTokenName": "mmproj-SmolVLM-256M-Instruct-Q8_0",
